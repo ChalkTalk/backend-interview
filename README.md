@@ -13,7 +13,7 @@ We sincerely thank you for your interest and your time.
 Best,  
 Eddie
 
-## Submit the minimum posible
+## Submit the minimum possible
 
 - You should **not implement features not required explicitely**.
 - Coding more than required will waste your time, and waste our time. Please, don't.
