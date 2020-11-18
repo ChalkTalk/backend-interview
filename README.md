@@ -8,11 +8,6 @@ We ask you to _read this file carefully_ **before** you begin writing a solution
 
 There is a Q&A and an example section at the end of the file, which may help you to complete this challenge faster.
 
-If you decide to continue with this process, **write us back WHEN** you expect to submit your solution before you begin implementing it.
-This is really important so we can better arrange to wait for you, specially if you want to take a little bit longer.
-
-If you decide NOT to continue with this process, let us know! ... So we stop spamming you with reminders.
-
 We sincerely thank you for your interest and your time.
 
 Best,  
