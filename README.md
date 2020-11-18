@@ -15,7 +15,7 @@ If you decide NOT to continue with this process, let us know! ... So we stop spa
 
 We sincerely thank you for your interest and your time.
 
-Best,
+Best,  
 Eddie
 
 ## Submit the minimum posible
@@ -26,12 +26,12 @@ Eddie
 ## Challenge: Create an API server/application
 
 - Write a server application that offers at least 3 endpoints:
-  - Define the game's known dictionary (see bellow).
+  - Define the game's known dictionary (see below).
   - Start a new game by providing a board.
   - Validate a play.
 - You can use any boilerplate or start project. If you need help with this, let us know and we will share a quick-starter project promptly.
 - Keep your code **separated from the boilerplate**, so it's easier to review your work.
-- We prefer TypeScript or typed JavaScript, or GoLang.
+- This project must be done in Python. Feel free to use your favorite libraries, we don't have a preference.
 
 ### Rules of the game
 
@@ -112,15 +112,15 @@ Your deliverable should satisfy all these requirements:
 
 - It should be submitted using one of the following alternatives:
   1. bitbucket.org or github.com repo (_Note: Do NOT clone our repo because other candidates can find it_).
-  1. Upload a compressed file somewhere and send us the URL.
-  1. Email us your code.
-  - _Note: Do NOT include `node_modules` or any other files that will be auto-generated_.
+  2. Upload a compressed file somewhere and send us the URL.
+  3. Email us your code.
+  - _Note: Do NOT include `.pyc` files or any other files that will be auto-generated_.
 
 ---
 
 ## Frequently asked question
 
-- Q: Can I use external libraries (npm)?
+- Q: Can I use external libraries?
   - Of course you can!
   - However, if some functionality is very easy to implement, try to implement it yourself (i.e. Don't install a library to figure out if a number is odd/even).
   - Choosing *when* to use libraries and *what libraries* you imported will speak about your judgement.
